@@ -22,11 +22,11 @@
             <label>Apellidos:</label>
             <input type="text" id="apellidos" name="apellidos" class="input" required /><br />
             <label>Correo Electronico:</label>
-            <input type="text" id="correoElectronico" name="correoElectronico" class="input" required /><br />
+            <input type="text" id="correoElectronico" name="correoElectronico" class="input"  /><br />
             <label>Edad:</label>
-            <input type="number" id="edad" name="edad" class="input" required /><br />
+            <input type="number" id="edad" name="edad" class="input"  /><br />
             <label>Cantidad Cursos Impartidos:</label>
-            <input type="number" id="cantidadCursosImpartidos" name="cantidadCursosImpartidos" class="input" required /><br />
+            <input type="number" id="cantidadCursosImpartidos" name="cantidadCursosImpartidos" class="input"  /><br />
             <label>Sexo:</label>
             <label>Masculino:</label>
             <input type="checkbox" value="Masculino" class="checkbox" />
