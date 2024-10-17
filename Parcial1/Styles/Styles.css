@@ -33,10 +33,16 @@ background-color:red
     cursor: pointer;
 }
 
+
+
 div {
-    border-color: black;
-    border-style: dashed;
+    border-style: solid;
     width: 500px;
     margin-right: auto;
     text-align: center;
+}
+
+.padre {
+    display:flex;
+    justify-content:center;
 }

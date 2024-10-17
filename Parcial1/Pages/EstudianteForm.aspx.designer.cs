@@ -11,16 +11,16 @@ namespace Parcial1.Pages
 {
 
 
-    public partial class PersonaFor
+    public partial class EstudianteForm
     {
 
         /// <summary>
-        /// Control personaFor.
+        /// Control estudianteForm.
         /// </summary>
         /// <remarks>
         /// Campo generado automáticamente.
         /// Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
         /// </remarks>
-        protected global::System.Web.UI.HtmlControls.HtmlForm personaFor;
+        protected global::System.Web.UI.HtmlControls.HtmlForm estudianteForm;
     }
 }

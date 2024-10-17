@@ -7,7 +7,7 @@ using System.Web.UI.WebControls;
 
 namespace Parcial1.Pages
 {
-    public partial class PersonaFor : System.Web.UI.Page
+    public partial class EstudianteForm : System.Web.UI.Page
     {
         protected void Page_Load(object sender, EventArgs e)
         {
