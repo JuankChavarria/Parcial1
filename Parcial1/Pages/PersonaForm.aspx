@@ -21,7 +21,7 @@
      <label>Correo Electronico:</label>
      <input type="text" id="correoElectronico" name="correoElectronico" class="input" required /><br />
      <label>Edad:</label>
-     <input type="text" id="edad" name="edad" class="input" required /><br />
+     <input type="number" id="edad" name="edad" class="input" required /><br />
      <label>Adicionado Por:</label>
      <input type="text" id="adicionadoPor" name="adicionadoPor" class="input" required /><br />
      <label>Fecha Adicion:</label>
@@ -29,7 +29,7 @@
      <label>Modificado Por:</label>
      <input type="text" id="modificadoPor" name="modificadoPor" class="input" required /><br />
      <label>Fecha Modificacion:</label>
-     <input type="text" id="fechaModificacion" name="fechaModificacion" class="input" required /><br />
+     <input type="datetime" id="fechaModificacion" name="fechaModificacion" class="input" required /><br />
      <label>Acepta terminos y condiciones:</label>
      <input type="checkbox"  value="Aceptar" class="checkbox" /><br />
      <input type="submit"  value="Guardar" class="button" />
