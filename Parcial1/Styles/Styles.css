@@ -34,9 +34,9 @@ background-color:red
 }
 
 div {
-    text-align: center;
     border-color: black;
     border-style: dashed;
-    width:500px;
-    border-
+    width: 500px;
+    margin-right: auto;
+    text-align: center;
 }
